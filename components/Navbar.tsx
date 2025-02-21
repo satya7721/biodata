@@ -39,7 +39,7 @@ export default function Navbar() {
                     size="sm"
                   >
                     <Icon className="w-4 h-4" />
-                    {item.name}
+                    {item.name} ok
                   </Button>
                 </Link>
               );
